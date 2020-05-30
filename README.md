@@ -1,6 +1,6 @@
 # Tetris-Game
 
-Building a Tetris Game in Flutter.
+Building a Tetris Game with Flutter.
 
 Show some ❤️ and star the repo to support the project
 
