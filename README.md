@@ -7,7 +7,9 @@ Show some ❤️ and star the repo to support the project
 # Screenshots
 
 
-
+| Main Menu | Game Screen   | Score Board |
+|-----------------|-----------------|---------------|
+| <img width="351" alt="Main_menu" src="https://user-images.githubusercontent.com/15650332/83326528-0e1ee300-a275-11ea-980a-3fb8fd6ae1cd.png" width="250"> | <img width="360" alt="Game_screen" src="https://user-images.githubusercontent.com/15650332/83326531-0f501000-a275-11ea-8b7a-78217052405b.png" width="250"> | <img width="360" alt="Score" src="https://user-images.githubusercontent.com/15650332/83326532-0fe8a680-a275-11ea-8747-c01b12518e08.png" width="250">
 
 
 ## Getting Started
